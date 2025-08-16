@@ -29,6 +29,19 @@ Key Features:
 
 Skills Used:
 PivotTables • Charts • Data Cleaning • Conditional Formatting • Trend Analysis
+# 3. Course Feedback Analysis
+
+Purpose:
+A survey analysis tool for universities or institutions to analyze student feedback and evaluate courses/professors.
+
+Key Features:
+- Data cleaning and organization of survey results
+- PivotTables to summarize ratings by question/instructor
+- Charts for sentiment and rating distribution
+- Statistical insights (average, median, mode) for decision-making
+
+Skills:
+Survey Data Cleaning • PivotTables • Charts • Descriptive Statistics
 
 📂 How to Use
 Download the Excel file for the project you’re interested in.
